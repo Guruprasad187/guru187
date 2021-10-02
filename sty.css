@@ -89,12 +89,12 @@ header .user img{
 
 header .user .nm{
     font-size:2rem;
-    color: #59A9B5;
+    color: #00008B;
 }
 
 header .user .jb{
     font-size:1rem;
-    color: #59A9B5;
+    color: #00008B;
 }
 
 header .nv{
@@ -109,8 +109,8 @@ header .nv ul li a{
     display: block;
     padding: 1rem;
     margin: 1.5rem 0;
-    background: #333;
-    color: #fff;
+    background: #59A9B5;
+    color: #00008B;
     font-size: 2rem;
     border-radius: 5rem;
     text-decoration: none;  
