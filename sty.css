@@ -71,7 +71,7 @@ header{
     z-index: 1000;
     height: 100%;
     width: 35rem;
-    background:#000000;
+    background:#1f1f1f;
     display: flex;
     align-items: center;
     justify-content: center;
