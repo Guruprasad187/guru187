@@ -141,7 +141,7 @@ header .nv ul li a:hover{
 }
 
 .Details .Row .det h3 span{
-    color: #eee;
+    color: red;
     padding: 0. 5rem;
 }
 table,th,td{
@@ -149,11 +149,11 @@ table,th,td{
     border-collapse: collapse;
 }
 td{
-    color: orange;
+    color: black;
     padding: 1rem;
 }
 th{
-    color: black;
+    color: red;
     padding: 1rem;
 }
 table{
@@ -192,6 +192,6 @@ table{
 }
 
 .Project .Row .det h3 span{
-    color: orange;
+    color: red;
     padding: 0. 5rem;
 }
