@@ -141,7 +141,7 @@ header .nv ul li a:hover{
 }
 
 .Details .Row .det h3 span{
-    color: #59A9B5;
+    color: #00008B;
     padding: 0. 5rem;
 }
 table,th,td{
@@ -153,7 +153,7 @@ td{
     padding: 1rem;
 }
 th{
-    color: red;
+    color: #00008B;
     padding: 1rem;
 }
 table{
@@ -192,6 +192,6 @@ table{
 }
 
 .Project .Row .det h3 span{
-    color: #59A9B5;
+    color: #00008B;
     padding: 0. 5rem;
 }
