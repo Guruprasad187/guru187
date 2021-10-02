@@ -149,11 +149,11 @@ table,th,td{
     border-collapse: collapse;
 }
 td{
-    color: brown;
+    color: orange;
     padding: 1rem;
 }
 th{
-    color: brown;
+    color: black;
     padding: 1rem;
 }
 table{
@@ -166,7 +166,7 @@ table{
 }
 #lis li{
     margin: 0 9rem;
-    color: chocolate;
+    color: black;
     font-size: medium;
     padding: .5rem 1rem;
 }
@@ -186,12 +186,12 @@ table{
 
 .Project .Row .det h3{
     font-size: 2rem;
-    color: blue;
+    color: black;
     padding: 1rem 0;
     font-weight: normal;
 }
 
 .Project .Row .det h3 span{
-    color: #eee;
+    color: orange;
     padding: 0. 5rem;
 }
