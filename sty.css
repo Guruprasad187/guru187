@@ -11,7 +11,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: #8B0000;
+    background-color: #59A9B5;
     overflow: hidden;
     padding-left: 35rem;
 }
@@ -26,7 +26,7 @@ body{
 }
 
 .heading span{
-    color: yellow;
+    color: #00008B;
 }
 
 .title{
